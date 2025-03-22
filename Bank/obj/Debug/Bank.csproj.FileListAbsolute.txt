@@ -1,0 +1,77 @@
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Bank.exe.config
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Bank.exe
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Bank.pdb
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\BusinessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Guna.UI2.dll
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\BusinessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Login.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.csproj.Up2Date
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.exe
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.pdb
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Dashboard.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Customers.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Users.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.DepositForm.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.WithdrawForm.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.FormAddCustomer.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.AddingStatus.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.FormAddUser.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Permission.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.LoadingDataCustomer.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.ConfirmTransaction.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Currency.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.CalculateCurrency.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.CurrentUser.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.Transfer.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.LoadingDataToTransfer.resources
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.ConfirmTransfer.resources
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Bank.exe.manifest
+C:\Users\Mr.Lap\source\repos\Bank\bin\Debug\Bank.application
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.TrustInfo.xml
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.exe.manifest
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.application
+C:\Users\Mr.Lap\source\repos\Bank\obj\Debug\Bank.UserRegisterScreen.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\Bank.exe.config
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\Bank.exe.manifest
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\Bank.application
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\Bank.exe
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\Bank.pdb
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\BusinessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\BusinessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\bin\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.AddingStatus.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.CalculateCurrency.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.ConfirmTransaction.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.ConfirmTransfer.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Currency.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.CurrentUser.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Customers.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Dashboard.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.DepositForm.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.FormAddUpdateCustomer.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.FormAddUpdateUser.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.LoadingDataCustomer.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.LoadingDataToTransfer.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Login.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.UserPermission.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Transfer.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.UserRegisterScreen.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.Users.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.WithdrawForm.resources
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.TrustInfo.xml
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.exe.manifest
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.application
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.csproj.Up2Date
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.exe
+C:\Users\Mr.Lap\source\repos\Bank Project\Bank\obj\Debug\Bank.pdb

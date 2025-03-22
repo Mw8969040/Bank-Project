@@ -1,0 +1,12 @@
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\bin\Debug\DataAccessLayerBankSystem.pdb
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.AssemblyReference.cache
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.dll
+C:\Users\Mr.Lap\source\repos\Bank Project\DataAccessLayerBankSystem\obj\Debug\DataAccessLayerBankSystem.pdb
