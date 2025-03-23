@@ -10,6 +10,8 @@
 
 ✅ Customer Management (Add, Edit ,Delete)  
 
+✅ Currencies
+
 ✅ Transaction Management (Deposit, Withdraw, Transfer)  
 
 ✅ Permissions  
