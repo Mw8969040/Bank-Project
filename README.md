@@ -28,7 +28,7 @@ UI Components: Guna UI
 
 Architecture: 3-Tier Architecture, OOP
 
-Application Type: Windows Forms
+Application Type: Windows
 
 ---
 
