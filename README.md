@@ -1,74 +1,47 @@
-# نظام إدارة البنك (Bank Management System)
+# Bank Management System
 
-نظام متكامل لإدارة العمليات المصرفية مع واجهة مستخدم رسومية سهلة الاستخدام.
+## Overview
+This is a **Bank Management System** that provides an intuitive interface for managing users, transactions, and permissions. Below are screenshots demonstrating different features of the system.
 
-## المميزات الرئيسية
+---
 
-### 1. إدارة العملاء
-- إضافة وتحرير وحذف بيانات العملاء
-- عرض معلومات الحساب الكاملة
-- إدارة الصور الشخصية للعملاء
+## Screenshots
 
-### 2. إدارة المستخدمين
-- نظام تسجيل دخول آمن
-- إدارة صلاحيات المستخدمين
-- تحكم كامل في حسابات الموظفين
+### 1. **Dashboard Screen**
+![Dashboard Screen](./screenshots/Screenshot_2025-01-29_084756.png)
+The main dashboard displaying total users, balance, and transaction statistics.
 
-### 3. العمليات المالية
-- إيداع الأموال
-- سحب الأموال
-- تحويل بين الحسابات
-- تحويل العملات
+### 2. **User Profile Details**
+![User Profile](./screenshots/Screenshot_2025-01-29_084840.png)
+User profile screen displaying account details, permissions, and profile picture.
 
-### 4. لوحة التحكم
-- إحصائيات مباشرة للعملاء
-- عدد العمليات اليومية
-- إجمالي الأرصدة
-- مراقبة الحسابات ذات الرصيد صفر
+### 3. **Add User Screen**
+![Add User](./screenshots/Screenshot_2025-01-29_085058.png)
+Screen for adding new users, including input fields and permission toggles.
 
-## واجهات النظام
+### 4. **Permission Error Message**
+![Permission Error](./screenshots/Screenshot_2025-01-29_084938.png)
+Popup message indicating that the user lacks permission to access a specific screen.
 
-### 1. واجهة تسجيل الدخول
-![واجهة تسجيل الدخول](screenshots/login.png)
-- تسجيل الدخول آمن للمستخدمين
-- إمكانية استعادة كلمة المرور
+---
 
-### 2. واجهة العملاء
-![واجهة العملاء](screenshots/customers.png)
-- عرض قائمة العملاء
-- إمكانية التحديث والحذف
-- عرض كافة بيانات العملاء
+## How to Use
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/your-repo/bank-management.git
+   ```
+2. Navigate to the project directory:  
+   ```bash
+   cd bank-management
+   ```
+3. Run the application following the instructions in the setup guide.
 
-### 3. تحرير بيانات العميل
-![تحرير بيانات العميل](screenshots/edit-customer.png)
-- تحديث بيانات العميل
-- إضافة صورة شخصية
-- تعديل معلومات الحساب
+---
 
-### 4. واجهة المستخدمين
-![واجهة المستخدمين](screenshots/users.png)
-- إدارة حسابات الموظفين
-- تحديد الصلاحيات
-- تعيين معلومات المستخدم
+## Contributing
+Feel free to fork this repository and submit pull requests if you'd like to contribute!
 
-### 5. لوحة التحكم
-![لوحة التحكم](screenshots/dashboard.png)
-- عرض الإحصائيات الحيوية
-- متابعة العمليات اليومية
-- مراقبة أداء النظام
+---
 
-## الإحصائيات الحالية
-- عدد العملاء: 10
-- عدد المستخدمين: 2
-- إجمالي الرصيد: $47,480
-- عمليات الإيداع اليومية: 2
-- عمليات السحب اليومية: 1
-- عمليات التحويل اليومية: 2
-- عمليات التسجيل: 6
-
-## المتطلبات التقنية
-- واجهة مستخدم رسومية حديثة
-- قاعدة بيانات لتخزين المعلومات
-- نظام تشغيل Windows
-- دعم للصور الشخصية
-- نظام أمان متكامل
+## License
+This project is licensed under the MIT License.
