@@ -16,6 +16,8 @@
 
 ✅ Permissions  
 
+✅ Encryption Password
+
 ## 🛠️ Tech Stack
 
 Programming Language: C#
