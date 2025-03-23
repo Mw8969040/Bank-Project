@@ -69,7 +69,7 @@
 
 ![Transfer](https://github.com/user-attachments/assets/aac3ee40-6777-4342-a92c-46baffe1c50c)
 
-### 🔄 10. Transfer Transaction History
+### 🔄 10. Transfer Transaction
 
 ![Transfer Transaction](https://github.com/user-attachments/assets/2e56d5d7-9a37-43ce-91f6-93ba4d61bb2c)
 
