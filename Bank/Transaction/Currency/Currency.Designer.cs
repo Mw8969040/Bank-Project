@@ -36,7 +36,7 @@
             this.label14 = new System.Windows.Forms.Label();
             this.CurrencyButton = new Guna.UI2.WinForms.Guna2Button();
             this.Transferr = new System.Windows.Forms.Label();
-            this.guna2Button1 = new Guna.UI2.WinForms.Guna2Button();
+            this.TransferButton = new Guna.UI2.WinForms.Guna2Button();
             this.WithdrawButton = new Guna.UI2.WinForms.Guna2Button();
             this.SubButtomPanel = new System.Windows.Forms.FlowLayoutPanel();
             this.ButtonLogOut = new Guna.UI2.WinForms.Guna2Button();
@@ -57,6 +57,9 @@
             this.label6 = new System.Windows.Forms.Label();
             this.SaveButton = new Guna.UI2.WinForms.Guna2Button();
             this.ButtomPanel = new System.Windows.Forms.Panel();
+            this.label7 = new System.Windows.Forms.Label();
+            this.label8 = new System.Windows.Forms.Label();
+            this.CountOfRows = new System.Windows.Forms.Label();
             this.CurrencyCalculatorButton = new Guna.UI2.WinForms.Guna2Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.DepositButton = new Guna.UI2.WinForms.Guna2Button();
@@ -69,9 +72,6 @@
             this.DashBoardButton = new Guna.UI2.WinForms.Guna2Button();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.MainPanel = new System.Windows.Forms.Panel();
-            this.label7 = new System.Windows.Forms.Label();
-            this.CountOfRows = new System.Windows.Forms.Label();
-            this.label8 = new System.Windows.Forms.Label();
             this.panelFilter = new System.Windows.Forms.Panel();
             this.radioCountry_Name = new System.Windows.Forms.RadioButton();
             this.radioCurrency_Code = new System.Windows.Forms.RadioButton();
@@ -139,27 +139,27 @@
             this.Transferr.TabIndex = 85;
             this.Transferr.Text = "Transfer";
             // 
-            // guna2Button1
+            // TransferButton
             // 
-            this.guna2Button1.Animated = true;
-            this.guna2Button1.AutoRoundedCorners = true;
-            this.guna2Button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
-            this.guna2Button1.BorderRadius = 21;
-            this.guna2Button1.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
-            this.guna2Button1.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
-            this.guna2Button1.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
-            this.guna2Button1.FillColor = System.Drawing.Color.DarkSlateGray;
-            this.guna2Button1.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.guna2Button1.ForeColor = System.Drawing.SystemColors.Highlight;
-            this.guna2Button1.Image = ((System.Drawing.Image)(resources.GetObject("guna2Button1.Image")));
-            this.guna2Button1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
-            this.guna2Button1.ImageSize = new System.Drawing.Size(27, 27);
-            this.guna2Button1.Location = new System.Drawing.Point(31, 560);
-            this.guna2Button1.Name = "guna2Button1";
-            this.guna2Button1.Size = new System.Drawing.Size(44, 44);
-            this.guna2Button1.TabIndex = 84;
-            this.guna2Button1.Click += new System.EventHandler(this.guna2Button1_Click);
+            this.TransferButton.Animated = true;
+            this.TransferButton.AutoRoundedCorners = true;
+            this.TransferButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
+            this.TransferButton.BorderRadius = 21;
+            this.TransferButton.DisabledState.BorderColor = System.Drawing.Color.DarkGray;
+            this.TransferButton.DisabledState.CustomBorderColor = System.Drawing.Color.DarkGray;
+            this.TransferButton.DisabledState.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(169)))), ((int)(((byte)(169)))), ((int)(((byte)(169)))));
+            this.TransferButton.DisabledState.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(141)))), ((int)(((byte)(141)))), ((int)(((byte)(141)))));
+            this.TransferButton.FillColor = System.Drawing.Color.DarkSlateGray;
+            this.TransferButton.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TransferButton.ForeColor = System.Drawing.SystemColors.Highlight;
+            this.TransferButton.Image = ((System.Drawing.Image)(resources.GetObject("TransferButton.Image")));
+            this.TransferButton.ImageAlign = System.Windows.Forms.HorizontalAlignment.Left;
+            this.TransferButton.ImageSize = new System.Drawing.Size(27, 27);
+            this.TransferButton.Location = new System.Drawing.Point(31, 560);
+            this.TransferButton.Name = "TransferButton";
+            this.TransferButton.Size = new System.Drawing.Size(44, 44);
+            this.TransferButton.TabIndex = 84;
+            this.TransferButton.Click += new System.EventHandler(this.TransferButton_Click);
             // 
             // WithdrawButton
             // 
@@ -446,6 +446,42 @@
             this.ButtomPanel.Size = new System.Drawing.Size(998, 33);
             this.ButtomPanel.TabIndex = 88;
             // 
+            // label7
+            // 
+            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label7.AutoSize = true;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label7.Location = new System.Drawing.Point(112, 3);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(15, 24);
+            this.label7.TabIndex = 99;
+            this.label7.Text = ":";
+            // 
+            // label8
+            // 
+            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.label8.AutoSize = true;
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.label8.Location = new System.Drawing.Point(10, 7);
+            this.label8.Name = "label8";
+            this.label8.Size = new System.Drawing.Size(106, 20);
+            this.label8.TabIndex = 97;
+            this.label8.Text = "Rows Count";
+            // 
+            // CountOfRows
+            // 
+            this.CountOfRows.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.CountOfRows.AutoSize = true;
+            this.CountOfRows.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.CountOfRows.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
+            this.CountOfRows.Location = new System.Drawing.Point(124, 7);
+            this.CountOfRows.Name = "CountOfRows";
+            this.CountOfRows.Size = new System.Drawing.Size(18, 20);
+            this.CountOfRows.TabIndex = 98;
+            this.CountOfRows.Text = "0";
+            // 
             // CurrencyCalculatorButton
             // 
             this.CurrencyCalculatorButton.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
@@ -477,7 +513,7 @@
             this.panel1.Controls.Add(this.label14);
             this.panel1.Controls.Add(this.CurrencyButton);
             this.panel1.Controls.Add(this.Transferr);
-            this.panel1.Controls.Add(this.guna2Button1);
+            this.panel1.Controls.Add(this.TransferButton);
             this.panel1.Controls.Add(this.label);
             this.panel1.Controls.Add(this.WithdrawButton);
             this.panel1.Controls.Add(this.label13);
@@ -649,43 +685,7 @@
             this.MainPanel.Name = "MainPanel";
             this.MainPanel.Size = new System.Drawing.Size(1105, 752);
             this.MainPanel.TabIndex = 90;
-            this.MainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.MainPanel_Paint);
-            // 
-            // label7
-            // 
-            this.label7.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label7.AutoSize = true;
-            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label7.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label7.Location = new System.Drawing.Point(112, 3);
-            this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(15, 24);
-            this.label7.TabIndex = 99;
-            this.label7.Text = ":";
-            // 
-            // CountOfRows
-            // 
-            this.CountOfRows.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.CountOfRows.AutoSize = true;
-            this.CountOfRows.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.CountOfRows.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.CountOfRows.Location = new System.Drawing.Point(124, 7);
-            this.CountOfRows.Name = "CountOfRows";
-            this.CountOfRows.Size = new System.Drawing.Size(18, 20);
-            this.CountOfRows.TabIndex = 98;
-            this.CountOfRows.Text = "0";
-            // 
-            // label8
-            // 
-            this.label8.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
-            this.label8.AutoSize = true;
-            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label8.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.label8.Location = new System.Drawing.Point(10, 7);
-            this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(106, 20);
-            this.label8.TabIndex = 97;
-            this.label8.Text = "Rows Count";
+           // this.MainPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.MainPanel_Paint);
             // 
             // panelFilter
             // 
@@ -943,7 +943,7 @@
         private System.Windows.Forms.Label label14;
         private Guna.UI2.WinForms.Guna2Button CurrencyButton;
         private System.Windows.Forms.Label Transferr;
-        private Guna.UI2.WinForms.Guna2Button guna2Button1;
+        private Guna.UI2.WinForms.Guna2Button TransferButton;
         private Guna.UI2.WinForms.Guna2Button WithdrawButton;
         private System.Windows.Forms.FlowLayoutPanel SubButtomPanel;
         private System.Windows.Forms.Label label5;

@@ -306,7 +306,7 @@ namespace Bank
             fm.ShowDialog();
         }
 
-        private void guna2Button1_Click(object sender, EventArgs e)
+        private void TransferButton_Click(object sender, EventArgs e)
         {
             if (!CheckPermission((int)UserPermission.EnPermission.Transfer))
             {
@@ -317,11 +317,6 @@ namespace Bank
             Form fm=new Transfer(_ThisUser);
             fm.Show();
             this.Close();
-        }
-
-        private void MainPanel_Paint(object sender, PaintEventArgs e)
-        {
-
         }
     }
 }
